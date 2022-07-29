@@ -57,7 +57,10 @@
 
 >**The END**
 
-* доп информация часть 2я, ещё команды  
+* доп информация часть 2я, ещё команды:  
+>**git clone https://...** - копируем репазиторий из открытого доступа через ссылкую  
+>**cd name** - входим ы клонированный репазиторий
+>**git remote add origin https://.... >> git branch -M master >> git push -u origin master** - перенос на github 
 >**cherry-pick**  
 >**reset**  
 >**revert**  
